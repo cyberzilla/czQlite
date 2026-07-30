@@ -1,0 +1,15 @@
+# VB6 compiled output
+*.exe
+*.dll
+*.ocx
+*.exp
+*.lib
+
+# VB6 workspace
+*.vbw
+
+# Database files
+*.db
+
+# Encrypted test files
+secure_test.db
